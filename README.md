@@ -39,4 +39,4 @@ Contributions to improve the functionality, performance, or documentation of the
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-Special thanks to [Basys 3](https://reference.digilentinc.com/reference/programmable-logic/basys-3/start) for providing the hardware platform for this project.
+Special thanks to [Basys 3](https://reference.digilentinc.com/reference/programmable-logic/basys-3/start) for providing the hardware platform for this project and also Prof. Mughal's YouTube lessons and his support that enabled made me to complete this project

@@ -13,6 +13,12 @@ This project implements an ATM (Automated Teller Machine) system using Verilog H
   - `LED[0]`: Lights up when the maximum deposit limit is reached.
   - `LED[1]`: Indicates when more than one switch is selected simultaneously.
   - `LED[2]`: Lights up when there are insufficient funds to complete a withdrawal request.
+    
+## Demo
+
+https://github.com/junaidhas/ATM_Machine_basys3/assets/97498014/3a4c525b-205a-4793-bfc2-4c3aee83c72d
+
+
 
 ## Implementation Details
 - **Verilog HDL**: The project is developed using Verilog HDL to describe the hardware behavior and logic of the ATM system.

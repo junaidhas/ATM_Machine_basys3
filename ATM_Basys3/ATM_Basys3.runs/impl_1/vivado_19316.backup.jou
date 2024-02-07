@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Feb  7 00:23:56 2024
+# Process ID: 19316
+# Current directory: C:/Users/junai/Verilog projects/ATM_Basys3/ATM_Basys3.runs/impl_1
+# Command line: vivado.exe -log Top_Module.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Top_Module.tcl -notrace
+# Log file: C:/Users/junai/Verilog projects/ATM_Basys3/ATM_Basys3.runs/impl_1/Top_Module.vdi
+# Journal file: C:/Users/junai/Verilog projects/ATM_Basys3/ATM_Basys3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Top_Module.tcl -notrace
